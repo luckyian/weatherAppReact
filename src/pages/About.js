@@ -20,7 +20,7 @@ function About() {
         <Row>
           <Col size="md-12">
             <p>
-              
+              Today"s Weather:
             </p>
             <p>
               
